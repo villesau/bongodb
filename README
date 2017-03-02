@@ -2,6 +2,8 @@ BongoDB README
 
 Welcome to BongoDB!
 
+BongoDB is a database specialised to storing binary files, like videos in scale.
+
 COMPONENTS
 
   bongod - The database server.
